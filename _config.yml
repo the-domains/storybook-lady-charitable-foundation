@@ -1,9 +1,18 @@
-layout_spectrum: 0.4646261068992317
-typography_spectrum: 0.17073618480935693
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.40038351877592504
-  lightness: 0.8148230649530888
   saturation: 0.3027795683592558
+  brandStrength: 0.400383518775925
   rhythmicContrast: 0.07518960582092404
   brandColors:
     - '#17BEBB'
@@ -11,4 +20,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  lightness: 0.8148230649530888
+typography_spectrum: 0.1562836
+layout_spectrum: 0.4914071
 name: Storybook Lady Charitable Foundation
