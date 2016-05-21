@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3027795683592558
+  saturation: 0.349624
   brandStrength: 0.400383518775925
-  rhythmicContrast: 0.07518960582092404
+  lightness: 0.5214823
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  lightness: 0.8148230649530888
-typography_spectrum: 0.1562836
+  rhythmicContrast: 0.2798066
+typography_spectrum: 0.452739
 layout_spectrum: 0.4914071
 name: Storybook Lady Charitable Foundation
