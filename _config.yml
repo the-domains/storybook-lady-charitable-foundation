@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.452739
 color:
-  saturation: 0.349624
+  saturation: 0.6439313
   brandStrength: 0.400383518775925
-  lightness: 0.5214823
+  lightness: 0.7953813
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.2798066
-typography_spectrum: 0.452739
+  rhythmicContrast: 0.537594
 layout_spectrum: 0.4914071
 name: Storybook Lady Charitable Foundation
